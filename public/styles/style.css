@@ -1,0 +1,7 @@
+#my_gallery{
+    text-align: center;
+}
+
+.thumbs-container ul li{
+    display: inline-block;
+}
